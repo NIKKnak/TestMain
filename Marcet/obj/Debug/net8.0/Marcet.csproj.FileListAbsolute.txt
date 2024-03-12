@@ -1,0 +1,14 @@
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\bin\Debug\net8.0\Marcet.exe
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\bin\Debug\net8.0\Marcet.deps.json
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\bin\Debug\net8.0\Marcet.runtimeconfig.json
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\bin\Debug\net8.0\Marcet.dll
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\bin\Debug\net8.0\Marcet.pdb
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\obj\Debug\net8.0\Marcet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\obj\Debug\net8.0\Marcet.AssemblyInfoInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\obj\Debug\net8.0\Marcet.AssemblyInfo.cs
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\obj\Debug\net8.0\Marcet.csproj.CoreCompileInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\obj\Debug\net8.0\Marcet.dll
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\obj\Debug\net8.0\refint\Marcet.dll
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\obj\Debug\net8.0\Marcet.pdb
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\obj\Debug\net8.0\Marcet.genruntimeconfig.cache
+C:\Users\nik88\OneDrive\Desktop\C# test\Marcet\obj\Debug\net8.0\ref\Marcet.dll

@@ -1,0 +1,14 @@
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\bin\Debug\net8.0\Singlton.exe
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\bin\Debug\net8.0\Singlton.deps.json
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\bin\Debug\net8.0\Singlton.runtimeconfig.json
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\bin\Debug\net8.0\Singlton.dll
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\bin\Debug\net8.0\Singlton.pdb
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\obj\Debug\net8.0\Singlton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\obj\Debug\net8.0\Singlton.AssemblyInfoInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\obj\Debug\net8.0\Singlton.AssemblyInfo.cs
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\obj\Debug\net8.0\Singlton.csproj.CoreCompileInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\obj\Debug\net8.0\Singlton.dll
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\obj\Debug\net8.0\refint\Singlton.dll
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\obj\Debug\net8.0\Singlton.pdb
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\obj\Debug\net8.0\Singlton.genruntimeconfig.cache
+C:\Users\nik88\OneDrive\Desktop\C# test\Singlton\obj\Debug\net8.0\ref\Singlton.dll
