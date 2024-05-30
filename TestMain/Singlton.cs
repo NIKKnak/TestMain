@@ -9,14 +9,14 @@ namespace TestMain
     internal class Singlton
     {
         private static Singlton instans;
-
+        
         public string Name { get; private set; }
 
         public Singlton(string name)
         {
             this.Name = name;
         }
-
+        
         public static Singlton Instans(string name)
         {
             if (instans == null)
